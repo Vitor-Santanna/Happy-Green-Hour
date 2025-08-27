@@ -36,7 +36,7 @@ Durante o desenvolvimento deste projeto, tive a oportunidade de:
 
 ## 🚧 Status do Projeto
 
-🔧 Em desenvolvimento — versão inicial com funcionalidades básicas.  
+🔧 Em desenvolvimento (versão inicial com funcionalidades básicas).  
 💡 Próximas etapas: melhorias na interface, adição de alertas de rega e armazenamento em banco de dados.
 
 ## ✍️ Autor
